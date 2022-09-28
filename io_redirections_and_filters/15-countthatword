@@ -1,2 +1,2 @@
 #!bin/bash
-greap root | wc -l
+greap bin | wc -l
