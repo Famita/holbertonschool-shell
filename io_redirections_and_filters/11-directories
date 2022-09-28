@@ -1,2 +1,2 @@
 #!/bin/bash
-find /etc -type d | wc -ls -lRa 
+find -type d | wc -ls -lRa 
